@@ -10,3 +10,5 @@ Links:
 
 [Jogo Gênesis bootcamp Órbi Dio](https://github.com/malufreirejau/jogoestilogeniusdioorbi)
 
+[Cheat Sheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)
+
